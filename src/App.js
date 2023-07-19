@@ -16,7 +16,7 @@ function App() {
   }
   return (
     <div className="w-[100vw] h-[100vh] flex justify-center items-center bg-[#344151] flex-col gap-10">
-      <div className="text-[#0398d4] uppercase font-medium text-2xl">Increment && Decrement </div>
+      <div className="text-[#0398d4] uppercase font-medium text-2xl">Increment & Decrement </div>
       <div className="flex justify-center flex-row bg-white gap-12 py-3 rounded-sm text-[25px] text-[#344151]">
         <button onClick={decreaseHandler} className="border-r-2 text-center w-20 border-[#bfbfbf] text-5xl">
         -
