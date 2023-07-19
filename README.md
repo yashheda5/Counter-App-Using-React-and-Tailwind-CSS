@@ -11,3 +11,5 @@ npm run start
 
 Facing any issue: TAILWIND : [Documentation](https://tailwindcss.com/docs/installation/using-postcss)
                    REACT    : [Documentation](https://react.dev/learn/installation)
+                  
+>>>>>>> e0146afad590d7101883321c6f66f0178f0c46df
